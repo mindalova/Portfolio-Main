@@ -1,4 +1,4 @@
-# 🧪 QA Automation Portfolio – [Твоето Име]
+# 🧪 QA Automation Portfolio – Petya Mindalova
 
 > QA professional with 15 years of manual testing experience, 
 > transitioning into Test Automation with Playwright and TypeScript.
