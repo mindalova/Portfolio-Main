@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a QA engineer with 15 years of hands-on experience in manual testing across
+I'm a QA engineer with 17 years of hands-on experience in manual testing across
 various domains. I have a deep understanding of software quality, test strategy,
 and bug lifecycle — and I'm now channeling that expertise into automation using
 **Playwright** and **TypeScript**.
@@ -33,14 +33,14 @@ I write *meaningful* tests that reflect real user behavior and catch real bugs.
 **Tools**
 - Git & GitHub
 - Jenkins
-- DevTools
+
 
 ---
 
 ## 📂 Projects
 
-### 1. `project-name`
-> Short description of what the app does and what you tested.
+### 1. `Opencart`
+> OpenCart is an open-source e-commerce web application for creating and managing online stores. In this portfolio project, I tested core end-to-end functionalities including user registration, login, navigation, product search, shopping cart, and checkout flows. The testing focused on validating critical user journeys, identifying defects, and ensuring a smooth shopping experience.
 
 - ✅ End-to-end tests with Playwright + TypeScript
 - ✅ Page Object Model structure
