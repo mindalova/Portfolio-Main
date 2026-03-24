@@ -36,6 +36,7 @@ I write *meaningful* tests that reflect real user behavior and catch real bugs.
 **Tools**
 - Git & GitHub
 - Jenkins
+- Lambda
 
 ---
 
