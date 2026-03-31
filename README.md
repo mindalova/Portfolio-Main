@@ -17,25 +17,32 @@ Experienced in building automation frameworks, data-driven testing, and ensuring
 
 ## 🛠️ Skills
 
-**Automation**
+### 🚀 Test Automation
 - Playwright (TypeScript)
 - Page Object Model (POM)
-- API Testing - in learning
+- Data-driven testing (JSON / CSV)
+- End-to-End UI testing
+- Test automation framework setup (Node.js + Playwright)
 
-**Manual Testing**
+### 🤖 AI & Modern Testing (Learning & Practice)
+- AI-assisted testing workflows
+- GitHub Copilot for test development
+- Exploring AI-driven test generation and automation concepts
+
+### 🧪 Manual Testing
 - Test planning & strategy
 - Functional, regression, smoke, exploratory testing
-- Bug tracking (Jira, etc.)
+- Bug tracking (Jira, Xray)
 - Test case design (equivalence partitioning, boundary value analysis)
-- Mobile Testing
-- Documentation Validation
-- SQL
+- Mobile testing (BrowserStack, LambdaTest)
+- Documentation validation
+- SQL for data validation
 
-**Tools**
+### ⚙️ Tools & CI/CD
 - Git & GitHub
+- GitHub Actions (basic)
 - Jenkins
-- Lambda
-
+- Visual Studio Code
 ---
 
 ## 📂 Projects
