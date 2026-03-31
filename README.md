@@ -47,22 +47,25 @@ Experienced in designing automation frameworks, implementing data-driven testing
 ## 📂 Projects
 
 ### 1. Automation Project – OpenCart
-OpenCart is an open-source e-commerce web application. In this project, I automated core end-to-end user flows including registration, login, product search, cart, and checkout.
+Automation testing project built with Playwright and TypeScript.
 
-✅ End-to-end UI tests using Playwright + TypeScript  
-✅ Page Object Model (POM) architecture  
-✅ Data-driven testing implementation  
-✅ CI integration with GitHub Actions  
+At the current stage, the project covers the Home Page and focuses on building a clean and scalable automation structure.
+
+✅ Playwright + TypeScript setup  
+✅ Page Object Model (POM) structure  
+✅ Home Page locators and methods  
+✅ UI validation for core home page elements  
+✅ Foundation for expanding to login, registration, search, cart, and checkout flows  
 
 🔗 View Repository - https://github.com/mindalova/automation-portfolio
 
 ---
 
-### 2. Manual Testing Portfolio – OpenCart
-Manual testing of core e-commerce functionalities including user flows, validation scenarios, and edge cases.
+### 2. Manual Testing Portfolio
+Portfolio of manual QA work demonstrating core testing skills and documentation practices.
 
 ✅ Test cases and test scenarios  
-✅ Bug reports with severity and priority  
+✅ Bug reports  
 ✅ Functional and exploratory testing  
 ✅ Validation of business requirements  
 
