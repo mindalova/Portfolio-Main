@@ -54,7 +54,7 @@ OpenCart is an open-source e-commerce web application. In this project, I automa
 ✅ Data-driven testing implementation  
 ✅ CI integration with GitHub Actions  
 
-🔗 View Repository - (https://github.com/mindalova/automation-portfolio)
+🔗 View Repository - https://github.com/mindalova/automation-portfolio
 
 ---
 
@@ -80,7 +80,7 @@ Manual testing of core e-commerce functionalities including user flows, validati
 
 ## 📫 Contact
 
-💼 LinkedIn: [(https://www.linkedin.com/in/petya-mindalova-9722a72b/)]
+💼 LinkedIn: https://www.linkedin.com/in/petya-mindalova-9722a72b
 📧 Email: petmindalova@gmail.com
 📞 Phone: +359 887 211010
 
