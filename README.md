@@ -7,13 +7,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a QA engineer with 19 years of hands-on experience in manual testing across
-various domains. I have a deep understanding of software quality, test strategy,
-and bug lifecycle — and I'm now channeling that expertise into automation using
-**Playwright** and **TypeScript**.
+QA Automation Engineer with **15+ years of experience**, currently focused on test automation using **Playwright** and **TypeScript**.
 
-My testing background gives me a unique edge: I don't just write scripts —
-I write *meaningful* tests that reflect real user behavior and catch real bugs.
+Actively exploring AI-assisted testing, with a strong interest in integrating intelligent automation into QA processes.
+
+Experienced in building automation frameworks, data-driven testing, and ensuring high-quality user experiences across complex systems.
 
 ---
 
