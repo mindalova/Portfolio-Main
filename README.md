@@ -57,19 +57,20 @@ At the current stage, the project covers the Home Page and focuses on building a
 ✅ UI validation for core home page elements  
 ✅ Foundation for expanding to login, registration, search, cart, and checkout flows  
 
-🔗 View Repository - https://github.com/mindalova/automation-portfolio
+🔗 [View Repository](https://github.com/mindalova/automation-portfolio)
 
 ---
 
-### 2. Manual Testing Portfolio
-Portfolio of manual QA work demonstrating core testing skills and documentation practices.
+### 2. Manual Testing Portfolio (In Progress)
+Currently building a structured manual QA portfolio to demonstrate core testing skills and documentation practices.
 
-✅ Test cases and test scenarios  
-✅ Bug reports  
-✅ Functional and exploratory testing  
-✅ Validation of business requirements  
+🔄 Planned content:
+- Test cases and test scenarios  
+- Bug reports with severity and priority  
+- Functional and exploratory testing examples  
+- Validation of business requirements  
 
-🔗 View Repository - work in progress
+🔗 Coming soon
 
 ---
 
