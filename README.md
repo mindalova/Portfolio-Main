@@ -57,6 +57,7 @@ At the current stage, the project covers the Home Page and focuses on building a
 ✅ Home Page locators and methods  
 ✅ UI validation for core home page elements  
 ✅ Foundation for expanding to login, registration, search, cart, and checkout flows  
+✅ Dynamic test data generation using `@faker-js/faker` (random emails, names, passwords) 
 
 🔗 [View Repository](https://github.com/mindalova/automation-portfolio)
 
