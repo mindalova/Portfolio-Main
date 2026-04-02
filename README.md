@@ -23,6 +23,7 @@ Experienced in designing automation frameworks, implementing data-driven testing
 - Data-driven testing (JSON / CSV)
 - End-to-End UI testing
 - Test automation framework setup (Node.js + Playwright)
+- Dynamic test data generation with `@faker-js/faker`
 
 ### 🤖 AI & Modern Testing (Learning & Practice)
 - AI-assisted testing workflows
