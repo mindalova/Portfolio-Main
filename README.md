@@ -27,7 +27,7 @@ Experienced in designing automation frameworks, implementing data-driven testing
 
 ### 🤖 AI & Modern Testing (Learning & Practice)
 - AI-assisted testing workflows
-- GitHub Copilot for test development
+- Cursor with AI for test development
 - Exploring AI-driven test generation and automation concepts
 
 ### 🧪 Manual Testing
@@ -36,6 +36,7 @@ Experienced in designing automation frameworks, implementing data-driven testing
 - Bug tracking (Jira, Xray)
 - Test case design (equivalence partitioning, boundary value analysis)
 - Mobile testing (BrowserStack, LambdaTest)
+- REST API testing and Postman
 - Documentation validation
 - SQL for data validation
 
@@ -78,7 +79,7 @@ Currently building a structured manual QA portfolio to demonstrate core testing 
 
 ## 📈 Currently Learning
 - Advanced Playwright patterns
-- API testing fundamentals
+- API testing
 - CI/CD pipelines (GitHub Actions, Jenkins)
 - AI-assisted testing approaches
 
